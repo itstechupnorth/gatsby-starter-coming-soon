@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/itstechupnorth/gatsby-starter-coming-soon/issues"
   },
-  "homepage": "https://github.com/itstechupnorth/gatsby-starter-coming-soon#readme"
+  "homepage": "https://github.com/itstechupnorth/gatsby-starter-coming-soon#readme",
+  "dependencies": {
+    "gatsby": "^1.9.225"
+  }
 }
