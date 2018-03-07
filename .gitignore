@@ -1,3 +1,8 @@
+# Ignore Gatsby 
+node_modules/
+.cache/
+Public
+
 # Logs
 logs
 *.log
