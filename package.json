@@ -2,8 +2,10 @@
   "name": "gatsby-starter-coming-soon",
   "version": "1.0.0",
   "description": "A Starter for Gatsby suitable for deployment as Coming Soon",
-  "main": "index.js",
   "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
