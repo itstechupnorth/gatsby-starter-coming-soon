@@ -3,5 +3,6 @@ A minimal starter generating a gatsby site that's coming soon.
 
 ## Features
 
-* Custom 404
+* 404 is also Coming Soon
 * No sourcemaps for quick upload
+* typography for easy themes
