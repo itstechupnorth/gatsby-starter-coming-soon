@@ -6,3 +6,4 @@ A minimal starter generating a gatsby site that's coming soon.
 * 404 is also Coming Soon
 * No sourcemaps for quick upload
 * typography for easy themes
+* Upload size less than 400k uncompressed
