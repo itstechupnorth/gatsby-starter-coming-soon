@@ -1,7 +1,7 @@
 # Ignore Gatsby 
 node_modules/
 .cache/
-Public
+public/
 
 # Logs
 logs
