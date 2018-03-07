@@ -1,5 +1,4 @@
 import React from "react"
+import ComingSoon from "../components/ComingSoon"
 
-export default () => <div>
-    <h1>Coming Soon</h1>
-</div>
+export default () => <ComingSoon/>
