@@ -1,4 +1,7 @@
-# Ignore Gatsby 
+# IDE
+.idea
+
+# Gatsby
 node_modules/
 .cache/
 public/
