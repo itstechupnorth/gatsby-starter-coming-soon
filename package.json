@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/itstechupnorth/gatsby-starter-coming-soon#readme",
   "dependencies": {
-    "gatsby": "^1.9.225"
+    "gatsby": "^1.9.225",
+    "gatsby-link": "^1.6.38"
   }
 }
