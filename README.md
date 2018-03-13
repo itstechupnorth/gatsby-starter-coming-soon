@@ -1,5 +1,11 @@
-# gatsby-starter-coming-soon
-A minimal starter generating a gatsby site that's coming soon.
+# Gatsby Starter - Coming Soon
+A minimal starter generating a <a href='https://www.gatsbyjs.org/' rel='tag'>gatsby</a> static site that's coming soon.
+
+## How To Use 
+
+Starter with a Coming Soon site ready for immediate load onto new wave static site hosts such as <a href='https://www.netlify.com/'>netlify.com</a>
+
+```gatsby new https://github.com/itstechupnorth/gatsby-starter-coming-soon```
 
 ## Features
 
